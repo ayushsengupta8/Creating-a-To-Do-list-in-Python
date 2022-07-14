@@ -1,2 +1,2 @@
-# Creating-a-To-Do-lit-in-Python
+# Creating-a-To-Do-list-in-Python
 Check out the readme file for more!
